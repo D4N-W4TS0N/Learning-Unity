@@ -1,4 +1,4 @@
-# Learning-Unity-and-Blender
+# Learning-Unity
 
 I have published here the basic scripts you will need to start a unity game.
 
